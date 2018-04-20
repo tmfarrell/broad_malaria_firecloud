@@ -1,8 +1,9 @@
 ### broad malaria firecloud 
 ------- 
 
-Workflow description language (WDL) SNP/INDEL and copy number variant-calling workflows for scalable analyses of *P. falciparum* genomes in the cloud. 
+Workflow description language (WDL) SNP/INDEL and copy number variant-calling workflows for scalable analyses of *P. falciparum* genomes. Intended
+for use on [FireCloud](https://portal.firecloud.org), but can also be executed on a cluster or local machine using [Cromwell](https://github.com/broadinstitute/cromwell).  
 
-See [here](https://software.broadinstitute.org/firecloud/) for more information on how to access and use FireCloud, a cloud computing
-service for genomic analysis pipelines.    
+See [here](https://software.broadinstitute.org/firecloud/) for more information on how to access and use FireCloud. See here for more information
+on Cromwell: [http://cromwell.readthedocs.io/en/develop/](http://cromwell.readthedocs.io/en/develop/).
 
