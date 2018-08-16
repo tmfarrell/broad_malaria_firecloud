@@ -1,6 +1,7 @@
 # 
-#  gatk3_germline_snps_indels-malaria.wdl: 
-#     - standardized pipeline for calling germline snps and indels using HaplotypeCaller. 
+#  gatk3_germline_snps_indels-Pf3D7.wdl: 
+#     - standardized pipeline for calling germline snps and indels for P. falciparum samples
+#       using HaplotypeCaller. 
 #     - developed by Malaria Group, IDMP, Broad Institute. 
 #  
 
