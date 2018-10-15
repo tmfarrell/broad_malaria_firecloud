@@ -28,7 +28,7 @@
 		"gs://fc-6d3db020-0f34-4434-a132-b1a4719a6848/refs/hb3_dd2.combined.final.vcf.gz",
 		"gs://fc-6d3db020-0f34-4434-a132-b1a4719a6848/refs/3d7_hb3.combined.final.vcf.gz" ],
 
-	"##__COMMENT_5_##": "VQSR",
+	"##__COMMENT_5_##": "VARIANT FILTERING/ VQSR",
  	"GATK3_Germline_Variants.variant_qc": "vqsr",
  	"GATK3_Germline_Variants.vqsr_mapping_qual_cap": 70,
  	"GATK3_Germline_Variants.ts_filter_indel": 99,
